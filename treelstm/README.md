@@ -1,1 +1,2 @@
-tree lstm implementaiton for hate speech detection
+# TreeLSTM
+## Tree lstm implementaiton for hate speech detection
